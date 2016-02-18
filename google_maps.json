@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "Denver, CO, USA" ],
+   "origin_addresses" : [ "Seattle, WA, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "2,106 km",
+                  "value" : 2106345
+               },
+               "duration" : {
+                  "text" : "19 hours 26 mins",
+                  "value" : 69963
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
